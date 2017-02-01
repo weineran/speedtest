@@ -4,7 +4,7 @@ speedtest is an unofficial commandline interface to speedtest.net
 Version 1.0 was designed as an "app only".  Version 2.0 will make a cleaner split between libraries and interface
 */
 
-package main
+package speedtest
 
 import (
 	"fmt"
